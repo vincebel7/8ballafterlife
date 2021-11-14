@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="8ballgame-revived:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/8ballgame_revived_jar</output-path>
+    <root id="archive" name="8ballgame-revived.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="8ballgame-revived" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/13.0.2/javafx-controls-13.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/13.0.2/javafx-base-13.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/13.0.2/javafx-graphics-13.0.2-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/13.0.2/javafx-fxml-13.0.2-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/13.0.2/javafx-base-13.0.2-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/13.0.2/javafx-controls-13.0.2-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/13.0.2/javafx-fxml-13.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/13.0.2/javafx-graphics-13.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
